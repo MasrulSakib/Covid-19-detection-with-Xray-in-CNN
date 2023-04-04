@@ -1,5 +1,5 @@
 # Covid-19-detection-with-Xray-in-CNN
-It's a Machine Learning based project. I used AlexNet model here.
+It's a Machine Learning based project. I used AlexNet model here. AlexNet is composed of eight layers, including five convolutional layers and three fully connected layers, and it contains over 60 million parameters. It was trained on the ImageNet dataset, which consists of over one million images and 1,000 object categories. I have used total 7316 datasets here. For train I have used 5121 datasets and for test I have used 2195 datasets. 
 
 ### Datasets Demo
 
